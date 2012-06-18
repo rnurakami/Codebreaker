@@ -1,1 +1,2 @@
-# CucumberにRubyを使っていることを認識させる為だけの空ファイル
+$LOAD_PATH << File.expand_path('../../../lib', __FILE__)
+require 'codebreaker'
